@@ -1,0 +1,2 @@
+<!-- 底部的按钮 -->
+<button class='Scancode' bindtap='getScancode'>绑定车辆</button>

@@ -1,0 +1,35 @@
+.search input {
+  height: 100rpx;
+  border-radius: 5px;
+  border: 1px solid #d0d0d0;
+  margin: 100rpx 30rpx;
+  padding: 0 15rpx;
+}
+
+.search button {
+  border-radius: 5px;
+  border: 1px solid #d0d0d0;
+  margin: 100rpx 30rpx;
+}
+
+.tip {
+  text-align: center;
+  font-size: 34rpx;
+}
+
+/* 搜索列表名称 */
+
+.list_name {
+  position: relative;
+  width: 100%;
+  height: 90rpx;
+  line-height: 90rpx;
+  border-bottom: 1rpx solid #ddd;
+}
+
+/* 列表名称 */
+
+.lab_name {
+  position: absolute;
+  left: 30rpx;
+}

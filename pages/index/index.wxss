@@ -1,0 +1,16 @@
+/* 底部按钮 */
+.Scancode {
+  font-size: 39rpx;
+  background: #010101;
+  position: fixed;
+  bottom: 35rpx;
+  display: flex;
+  width: 90%;
+  justify-content: center;
+  
+  color: #fff;
+  border-radius:10rpx;
+  margin-left:30rpx;
+  margin-right: 30rpx;
+  z-index:999;
+}

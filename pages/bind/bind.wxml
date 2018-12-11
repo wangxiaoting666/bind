@@ -1,0 +1,13 @@
+<view class='page_row'>
+  <view class="search">
+
+    <input class='carid' placeholder=" {{title}}" focus="{{focus}}" />
+    <input class='carnumber' placeholder="请输入车牌号和驾驶证号码" focus="{{focus}}" />
+
+    <button type="primary" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}" disabled="{{disabled}}" bindtap="primary"> 绑定</button>
+
+  </view>
+  <view class='tip'>
+    定位标签和车辆绑定后即可看跟踪车辆位置
+  </view>
+</view>
